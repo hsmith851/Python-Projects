@@ -7,5 +7,3 @@ def findArea(r):
 # Driver method INPUT AND OUTPUT
 r=int(input("Enter radius of the circle : "))
 print ("Area is %.6f" % findArea (r));
-
-# This code is contributed by Chinmoy Lenka
